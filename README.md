@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rafabduloff&style=flat-square&color=blue)](https://github.com/rafabduloff)
 
@@ -148,9 +148,11 @@
 
 ### 🖥️ Среда разработки
 
-**Операционные системы (дуалбут):**
+**ОC**
 <div align="center">
-
+Dualboot:
+</div>
+<div align="center">
 ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge&logo=gnu&logoColor=white)
