@@ -1,115 +1,103 @@
 # Rafabduloff // rozeraf
 
-Фуллстек разработчик начального уровня. Занимаюсь созданием веб-приложений, CLI-утилит и десктопных интерфейсов. Работаю преимущественно с JavaScript/TypeScript и C++, изучаю Rust. Уделяю внимание качеству интерфейса, читаемости кода и автоматизации рутинных задач.
+Фуллстек-разработчик начального уровня. Занимаюсь созданием веб-приложений, CLI-утилит и десктопных интерфейсов. Работаю с JavaScript, TypeScript, C++, изучаю Rust. Уделяю внимание читаемости кода, качеству интерфейса и автоматизации процессов.
 
-Участвую в небольших коммерческих и личных проектах, где совмещаю фронтенд и бэкенд.
+Работаю с небольшими заказами и собственными проектами, совмещаю фронтенд и бэкенд. Цель — постепенный переход от простых решений к надёжным, масштабируемым архитектурам.
 
 ---
 
 ## Проекты
 
 ### [music-player](https://github.com/rafabduloff/music-player)
-
-Десктопный музыкальный плеер на Tauri + React
-
-* Интерфейс на React с Tailwind CSS
-* Встроенные заглушки, планируется интеграция API (Yandex Music, Spotify)
-* Конфигурирование через TOML, кастомные темы
-* Основной backend пишется на Rust (в процессе стабилизации)
-
----
+Десктопный плеер на Tauri + React  
+- UI на React + Tailwind CSS  
+- Поддержка кастомных тем и конфигов в TOML  
+- Планируется подключение внешних API (Yandex Music, Spotify)  
+- Backend на Rust (в разработке)
 
 ### [deepcode](https://github.com/rafabduloff/deepcode)
-
-CLI-инструмент, использующий LLM через OpenRouter API
-
-* Поддержка пошаговой генерации, дебага и unified-diff
-* Контроль опасных команд (через фильтры и подтверждения)
-* Установка зависимостей и создание `.venv` автоматически
-* Создан в рамках обучения Python и работы с API
-
----
+CLI-инструмент с LLM-поддержкой (OpenRouter API)  
+- Генерация, дебаг и редактирование кода (unified-diff)  
+- Контроль опасных команд  
+- Автоматическая установка зависимостей  
+- Учебный проект для практики Python и API-интеграции
 
 ### [cpp-pswd-gen](https://github.com/rafabduloff/cpp-pswd-gen)
-
-Генератор паролей на C++ (начальный уровень)
-
-* Несколько режимов: стандартный, запоминаемый, кастомный
-* Оценка сложности пароля и генерация с seed
-* Проект развивался параллельно с изучением C++
-
----
+Генератор паролей на C++  
+- Поддержка разных режимов генерации  
+- Сложность, seed, опции  
+- Развит в процессе изучения C++
 
 ### [qol](https://github.com/rafabduloff/qol)
-
-Сборник скриптов для настройки Windows
-
-* PowerShell-скрипты для очистки, деактивации телеметрии, установки ПО
-* Частично автоматизированные действия для типовой настройки
-* Используется лично и для помощи другим пользователям
+Скрипты для настройки Windows  
+- Очистка, отключение телеметрии, установка ПО  
+- Частичная автоматизация  
+- Используется лично и для помощи другим
 
 ---
 
-## Технологии
+## Языки программирования
 
-### Языки программирования - Middle
+**Middle:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+**Junior:**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Rust (учусь)](https://img.shields.io/badge/Rust_learning-000000?style=for-the-badge&logo=rust&logoColor=white)
 
-### Языки программирования - Junior
+---
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Rust (учусь)](https://img.shields.io/badge/Rust_learning-000000?style=for-the-badge\&logo=rust\&logoColor=white)
+## Фреймворки и стек
 
-### Фреймворки и инструменты
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge&logo=tauri&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-learning-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=for-the-badge\&logo=tauri\&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-learning-3FCF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+---
 
-### Среда и инструменты
+## Инструменты и среда
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Zsh](https://img.shields.io/badge/Zsh-89e051?style=for-the-badge\&logo=gnu-bash\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge\&logo=clion\&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge\&logo=pycharm\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zsh](https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 
 ---
 
 ## Навыки
 
-* Создание небольших приложений с нуля (UI + логика)
-* Использование API, работа с HTTP-запросами и JSON
-* Написание CLI-скриптов и утилит
-* Простые backend'ы на Node.js и Supabase
-* Начальный уровень работы с Rust и C++ (CLI, базовая логика)
+- Создание веб-приложений с нуля (UI + логика)
+- Написание CLI-утилит и консольных интерфейсов
+- Работа с HTTP-запросами, JSON, API
+- Базовый backend на Node.js, Supabase
+- Опыт работы с Rust и C++ на уровне CLI-инструментов
 
 ---
 
 ## GitHub статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafabduloff\&show_icons=true\&theme=dark\&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafabduloff\&layout=compact\&theme=dark\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafabduloff&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rafabduloff&layout=compact&theme=dark&hide_border=true)
 
 ---
 
 ## Интересы
 
-* Улучшение dev-опыта и автоматизация повседневной работы
-* Создание инструментов, упрощающих задачи (для себя и других)
-* Постепенный переход от "работающего" к "надёжному и масштабируемому"
-* Изучение системного программирования и архитектуры ОС
-* Развитие навыков в рамках реальных задач, а не только теории
+- Улучшение среды разработки и автоматизация
+- Инструменты для повышения продуктивности
+- Проектирование архитектур без перегрузки
+- Системное программирование, работа с ОС
+- Рост через реальные задачи и практику
 
 ---
 
 ## Контакты
 
-* **Telegram**: [@rozeraf](https://t.me/rozeraf)
-* **GitHub**: [rafabduloff](https://github.com/rafabduloff)
-* **Email**: [rafabduloff@gmail.com](mailto:rafabduloff@gmail.com)
+**Telegram:** [@rozeraf](https://t.me/rozeraf)  
+**GitHub:** [rafabduloff](https://github.com/rafabduloff)  
+**Email:** [rafabduloff@gmail.com](mailto:rafabduloff@gmail.com)
