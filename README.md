@@ -24,7 +24,7 @@
 
 ## 👨‍💻 О себе
 
-Фуллстек разработчик начального уровня с фокусом на создание качественных веб-приложений, CLI-утилит и десктопных интерфейсов. Работаю преимущественно с **JavaScript/TypeScript** и **C++**, активно изучаю **Rust**. 
+Фуллстек разработчик начального уровня с фокусом на создание качественных веб-приложений, CLI-утилит и десктопных интерфейсов. Работаю преимущественно с **JavaScript/TypeScript** и **Python**, активно изучаю **C++** и **Rust**. 
 
 Придерживаюсь принципов чистого кода, уделяю особое внимание качеству пользовательского интерфейса и автоматизации рутинных задач. Участвую в коммерческих и personal проектах, где совмещаю frontend и backend разработку.
 
@@ -147,11 +147,18 @@
 </div>
 
 ### 🖥️ Среда разработки
+
+**Операционные системы (дуалбут):**
 <div align="center">
 
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge&logo=gnu&logoColor=white)
+
+</div>
+
+**Инструменты разработки:**
+<div align="center">
 
 ![Zsh](https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
