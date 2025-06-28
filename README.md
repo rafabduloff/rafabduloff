@@ -113,9 +113,12 @@ CLI-инструмент, использующий LLM через OpenRouter API
 
 ## Операционная система и дуалбут
 
-- Основная система: EndeavourOS (Arch Linux)  
-- Вторая система: Windows 10  
-- Использую GRUB для выбора загрузки между системами  
+- Основная система:  
+  ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-000000?style=for-the-badge&logo=endeavouros&logoColor=white)  
+- Вторая система:  
+  ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+- Загрузчик:  
+  ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge&logo=gnu&logoColor=white)  
 
 ---
 
