@@ -2,71 +2,7 @@
 
 <div align="center">
 
-<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="gradient1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#667eea;stop-opacity:1">
-        <animate attributeName="stop-color" values="#667eea;#764ba2;#f093fb;#667eea" dur="4s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#764ba2;stop-opacity:1">
-        <animate attributeName="stop-color" values="#764ba2;#f093fb;#4facfe;#764ba2" dur="4s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    <linearGradient id="gradient2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#4facfe;stop-opacity:1">
-        <animate attributeName="stop-color" values="#4facfe;#00f2fe;#43e97b;#4facfe" dur="3s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#00f2fe;stop-opacity:1">
-        <animate attributeName="stop-color" values="#00f2fe;#43e97b;#38f9d7;#00f2fe" dur="3s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-  </defs>
-  
-  <!-- Background particles -->
-  <circle cx="100" cy="50" r="2" fill="#667eea" opacity="0.6">
-    <animate attributeName="cy" values="50;150;50" dur="3s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.6;0.2;0.6" dur="3s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="700" cy="150" r="1.5" fill="#764ba2" opacity="0.5">
-    <animate attributeName="cy" values="150;50;150" dur="4s" repeatCount="indefinite"/>
-    <animate attributeName="opacity" values="0.5;0.8;0.5" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="250" cy="30" r="1" fill="#4facfe" opacity="0.7">
-    <animate attributeName="cx" values="250;550;250" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="550" cy="170" r="1.5" fill="#00f2fe" opacity="0.6">
-    <animate attributeName="cx" values="550;250;550" dur="6s" repeatCount="indefinite"/>
-  </circle>
-  
-  <!-- Main text -->
-  <text x="400" y="80" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="36" font-weight="bold" text-anchor="middle" fill="url(#gradient1)">
-    Full-Stack Developer
-    <animate attributeName="opacity" values="0.8;1;0.8" dur="2s" repeatCount="indefinite"/>
-  </text>
-  
-  <!-- Subtitle -->
-  <text x="400" y="110" font-family="'Segoe UI', Tahoma, Geneva, Verdana, sans-serif" font-size="18" text-anchor="middle" fill="url(#gradient2)">
-    JavaScript • TypeScript • C++ • Rust
-  </text>
-  
-  <!-- Decorative lines -->
-  <line x1="50" y1="130" x2="350" y2="130" stroke="url(#gradient1)" stroke-width="2" opacity="0.7">
-    <animate attributeName="x2" values="350;380;350" dur="3s" repeatCount="indefinite"/>
-  </line>
-  <line x1="450" y1="130" x2="750" y2="130" stroke="url(#gradient2)" stroke-width="2" opacity="0.7">
-    <animate attributeName="x1" values="450;420;450" dur="3s" repeatCount="indefinite"/>
-  </line>
-  
-  <!-- Code brackets -->
-  <text x="150" y="160" font-family="'Fira Code', Monaco, 'Cascadia Code', monospace" font-size="24" fill="#667eea" opacity="0.8">
-    { }
-    <animate attributeName="opacity" values="0.8;0.4;0.8" dur="2.5s" repeatCount="indefinite"/>
-  </text>
-  <text x="650" y="160" font-family="'Fira Code', Monaco, 'Cascadia Code', monospace" font-size="24" fill="#764ba2" opacity="0.8">
-    &lt;/&gt;
-    <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2.5s" repeatCount="indefinite"/>
-  </text>
-</svg>
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rafabduloff&style=flat-square&color=blue)](https://github.com/rafabduloff)
 
@@ -94,56 +30,113 @@
 
 ---
 
-## 🚀 Проекты
+## 🚀 Избранные проекты
 
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🎵 [music-player](https://github.com/rafabduloff/music-player)
-**Десктопный музыкальный плеер**
-- **Stack:** Tauri + React + Tailwind CSS
-- **Backend:** Rust (в процессе стабилизации)
+**Продвинутый музыкальный плеер**
+- **Stack:** Tauri + TypeScript + React
 - **Features:** 
-  - Современный интерфейс с кастомными темами
-  - Конфигурирование через TOML
-  - Планируется интеграция с API (Yandex Music, Spotify)
+  - Множественные источники музыки
+  - Настраиваемые темы
+  - Продвинутое управление аудио
+  - Современный интерфейс
 
 </td>
-<td width="50%">
+<td width="33%">
 
 ### 🤖 [deepcode](https://github.com/rafabduloff/deepcode)
-**CLI-инструмент с LLM интеграцией**
+**MVP OpenSource аналог Claude Code**
 - **Stack:** Python + OpenRouter API
 - **Features:**
-  - Пошаговая генерация и дебаг кода
-  - Unified-diff поддержка
-  - Контроль опасных команд
-  - Автоматическое управление зависимостями
+  - Бесплатная альтернатива Claude Code
+  - Гибкая автоматизация
+  - Пошаговая генерация кода
+  - Контроль безопасности
+
+</td>
+<td width="33%">
+
+### 🎮 [Object-Workshop](https://github.com/rafabduloff/Object-Workshop)
+**Кастомные объекты для игр**
+- **Stack:** C++ (Fork)
+- **Features:**
+  - Загрузка/выгрузка объектов
+  - Поиск по созданным объектам
+  - Интеграция с игровыми движками
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%">
 
 ### 🔐 [cpp-pswd-gen](https://github.com/rafabduloff/cpp-pswd-gen)
 **Генератор паролей на C++**
-- **Stack:** C++ (современный стандарт)
+- **Stack:** C++
 - **Features:**
   - Множественные режимы генерации
   - Оценка сложности паролей
-  - Генерация с seed для воспроизводимости
+  - Генерация с seed
 
 </td>
-<td width="50%">
+<td width="33%">
+
+### 🎯 [2025-hackathon](https://github.com/rafabduloff/2025-hackathon)
+**Хакатон проект 2025**
+- **Stack:** TypeScript
+- **Features:**
+  - Современное веб-приложение
+  - Responsive дизайн
+  - Оптимизированная производительность
+
+</td>
+<td width="33%">
 
 ### ⚙️ [qol](https://github.com/rafabduloff/qol)
-**Скрипты для настройки Windows**
-- **Stack:** PowerShell
+**Инструменты настройки Windows**
+- **Stack:** PowerShell + Batch
 - **Features:**
-  - Автоматизированная очистка системы
-  - Деактивация телеметрии
-  - Пакетная установка ПО
+  - Автоматизация настройки системы
+  - Коллекция полезных утилит
+  - Методы активации ПО
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+### 🎵 [gd-song-replace](https://github.com/rafabduloff/gd-song-replace)
+**Замена треков в Geometry Dash**
+- **Stack:** Python
+- **Features:**
+  - Поддержка версий 2.1 и 2.2
+  - Простой интерфейс
+  - Автоматическая обработка файлов
+
+</td>
+<td width="33%">
+
+### 🔍 [HackBrowserData](https://github.com/rafabduloff/HackBrowserData)
+**Извлечение данных браузера**
+- **Stack:** Go (Fork)
+- **Features:**
+  - Поддержка множества типов данных
+  - Кроссплатформенность
+  - Расшифровка данных
+
+</td>
+<td width="33%">
+
+### 🎲 [victorina](https://github.com/rafabduloff/victorina)
+**Интерактивная викторина**
+- **Stack:** JavaScript
+- **Features:**
+  - Динамический контент
+  - Система счета
+  - Адаптивный интерфейс
 
 </td>
 </tr>
