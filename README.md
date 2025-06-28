@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+C%2B%2B+%E2%80%A2+Rust)
+![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python+%E2%80%A2+C%2B%2B)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rafabduloff&style=flat-square&color=blue)](https://github.com/rafabduloff)
 
@@ -34,7 +34,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
 ### 🎵 [music-player](https://github.com/rafabduloff/music-player)
 **Продвинутый музыкальный плеер**
@@ -46,7 +46,7 @@
   - Современный интерфейс
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### 🤖 [deepcode](https://github.com/rafabduloff/deepcode)
 **MVP OpenSource аналог Claude Code**
@@ -58,20 +58,22 @@
   - Контроль безопасности
 
 </td>
-<td width="33%">
-
-### 🎮 [Object-Workshop](https://github.com/rafabduloff/Object-Workshop)
-**Кастомные объекты для игр**
-- **Stack:** C++ (Fork)
-- **Features:**
-  - Загрузка/выгрузка объектов
-  - Поиск по созданным объектам
-  - Интеграция с игровыми движками
-
-</td>
 </tr>
 <tr>
-<td width="33%">
+<td width="50%">
+
+### 🦸‍♂️ [2025-hackathon](https://github.com/rafabduloff/2025-hackathon)
+**React Marvel App**
+- **Stack:** React + Vite + TypeScript
+- **Features:**
+  - Информация о персонажах Marvel
+  - Интерактивные викторины и мини-игры
+  - История Marvel Universe
+  - Система достижений
+  - Аутентификация пользователей
+
+</td>
+<td width="50%">
 
 ### 🔐 [cpp-pswd-gen](https://github.com/rafabduloff/cpp-pswd-gen)
 **Генератор паролей на C++**
@@ -82,18 +84,9 @@
   - Генерация с seed
 
 </td>
-<td width="33%">
-
-### 🎯 [2025-hackathon](https://github.com/rafabduloff/2025-hackathon)
-**Хакатон проект 2025**
-- **Stack:** TypeScript
-- **Features:**
-  - Современное веб-приложение
-  - Responsive дизайн
-  - Оптимизированная производительность
-
-</td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 ### ⚙️ [qol](https://github.com/rafabduloff/qol)
 **Инструменты настройки Windows**
@@ -104,31 +97,7 @@
   - Методы активации ПО
 
 </td>
-</tr>
-<tr>
-<td width="33%">
-
-### 🎵 [gd-song-replace](https://github.com/rafabduloff/gd-song-replace)
-**Замена треков в Geometry Dash**
-- **Stack:** Python
-- **Features:**
-  - Поддержка версий 2.1 и 2.2
-  - Простой интерфейс
-  - Автоматическая обработка файлов
-
-</td>
-<td width="33%">
-
-### 🔍 [HackBrowserData](https://github.com/rafabduloff/HackBrowserData)
-**Извлечение данных браузера**
-- **Stack:** Go (Fork)
-- **Features:**
-  - Поддержка множества типов данных
-  - Кроссплатформенность
-  - Расшифровка данных
-
-</td>
-<td width="33%">
+<td width="50%">
 
 ### 🎲 [victorina](https://github.com/rafabduloff/victorina)
 **Интерактивная викторина**
