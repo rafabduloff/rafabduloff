@@ -1,16 +1,16 @@
-# Rafabduloff // rozeraf
+# rozeraf
 
 <div align="center">
 
 ![Header](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=4000&pause=1000&color=667EEA&background=00000000&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full-Stack+Developer;JavaScript+%E2%80%A2+TypeScript+%E2%80%A2+Python)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=rafabduloff&style=flat-square&color=blue)](https://github.com/rafabduloff)
+[![Profile Views](https://komarev.com/ghpvc/?username=rozeraf&style=flat-square&color=blue)](https://github.com/rozeraf)
 
 <div id="badges" align="center" style="margin: 20px 0;">
   <a href="https://t.me/rozeraf" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://github.com/rafabduloff" target="_blank">
+  <a href="https://github.com/rozeraf" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="mailto:rafabduloff@gmail.com" target="_blank">
@@ -36,7 +36,7 @@
 <tr>
 <td width="50%">
 
-### 🎵 [music-player](https://github.com/rafabduloff/music-player)
+### 🎵 [music-player](https://github.com/rozeraf/music-player)
 **Продвинутый музыкальный плеер**
 - **Stack:** Tauri + TypeScript + React
 - **Features:** 
@@ -48,7 +48,7 @@
 </td>
 <td width="50%">
 
-### 🤖 [deepcode](https://github.com/rafabduloff/deepcode)
+### 🤖 [deepcode](https://github.com/rozeraf/deepcode)
 **MVP OpenSource аналог Claude Code**
 - **Stack:** Python + OpenRouter API
 - **Features:**
@@ -62,7 +62,7 @@
 <tr>
 <td width="50%">
 
-### 🦸‍♂️ [2025-hackathon](https://github.com/rafabduloff/2025-hackathon)
+### 🦸‍♂️ [2025-hackathon](https://github.com/rozeraf/2025-hackathon)
 **React Marvel App**
 - **Stack:** React + Vite + TypeScript
 - **Features:**
@@ -75,7 +75,7 @@
 </td>
 <td width="50%">
 
-### 🔐 [cpp-pswd-gen](https://github.com/rafabduloff/cpp-pswd-gen)
+### 🔐 [cpp-pswd-gen](https://github.com/rozeraf/cpp-pswd-gen)
 **Генератор паролей на C++**
 - **Stack:** C++
 - **Features:**
@@ -88,7 +88,7 @@
 <tr>
 <td width="50%">
 
-### ⚙️ [qol](https://github.com/rafabduloff/qol)
+### ⚙️ [qol](https://github.com/rozeraf/qol)
 **Инструменты настройки Windows**
 - **Stack:** PowerShell + Batch
 - **Features:**
@@ -99,7 +99,7 @@
 </td>
 <td width="50%">
 
-### 🎲 [victorina](https://github.com/rafabduloff/victorina)
+### 🎲 [victorina](https://github.com/rozeraf/victorina)
 **Интерактивная викторина**
 - **Stack:** JavaScript
 - **Features:**
@@ -190,12 +190,12 @@ Dualboot:
 ## 📊 GitHub статистика
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafabduloff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabduloff&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rozeraf&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rozeraf&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafabduloff&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rozeraf&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
