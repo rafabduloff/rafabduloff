@@ -155,7 +155,7 @@ Dualboot:
 
 <div align="center">
 
-![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7F3FBF?style=for-the-badge&logo=endeavouros&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=fff)
 ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![GRUB](https://img.shields.io/badge/GRUB-8E8E8E?style=for-the-badge&logo=gnu&logoColor=white)
 
